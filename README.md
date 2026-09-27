@@ -164,13 +164,3 @@ Program menggunakan data `/odom` untuk memperkirakan jarak yang telah ditempuh d
 ## Hasil
 
 Robot berhasil bergerak secara otomatis mengikuti lintasan berbentuk persegi panjang pada simulasi Gazebo Harmonic.
-
-## Video Demonstrasi
-
-Link video demonstrasi akan ditambahkan setelah proses perekaman dan upload ke YouTube.
-
-## Author
-
-**Mahasiswa Teknik Elektro**
-
-Project ini dibuat untuk keperluan tugas mata kuliah Robot Industri.
